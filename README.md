@@ -53,10 +53,6 @@ To execute the code in this repository, you need the Dart SDK installed on your 
 
 Contributions, open issues, and feature requests are highly encouraged! If you have optimized examples, additional notes, or more advanced Dart concepts to add, feel free to fork this repository and submit a pull request to help others learn.
 
-## 👤 Author
-
-**Faizan**
-* GitHub: [@SayyadFaizan](https://github.com/SayyadFaizan)
 
 ---
 ⭐️ *If you found this repository helpful for your Flutter journey, consider giving it a star!*   
